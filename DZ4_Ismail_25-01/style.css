@@ -1,0 +1,25 @@
+.card {
+    background-color: #fff;
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.wrapper {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.img {
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.card p {
+    font-size: 20px;
+    font-weight: 500;
+}
